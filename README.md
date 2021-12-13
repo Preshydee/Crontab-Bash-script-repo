@@ -1,4 +1,7 @@
-# Crontab-Bash-script-repo
+This is a bash script that works with crontab to automate sending a mail at intervals
+
+
+#Crontab-Bash-script-repo
 Install ssmtp\
 sudo apt-get install ssmtp
 
